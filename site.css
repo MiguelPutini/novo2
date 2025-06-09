@@ -1,0 +1,32 @@
+
+*{
+    background-color:darkblue;
+}
+#demo1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+#demo2{
+    text-align: center;
+    color: white;
+}
+
+#demo3{
+    text-align: center;
+    color: white;
+}
+
+#galeria{
+    border: 2px solid white;
+    border-radius: 15px;
+}
+#bot1{
+    color: white;
+}
+
+#bot2{
+    color: white;
+}
